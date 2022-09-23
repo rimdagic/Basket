@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
         //Check if user clicks the "How to play"-button
         how.setOnClickListener(view -> {
 
-            //User clicked the button, run method toStart()
+            //User clicked the button, run method toHowTo()
             toHowTo();
         });
     }
